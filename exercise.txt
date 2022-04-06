@@ -1,0 +1,12 @@
+1. Explain what the terminal is in your own words.
+    The Terminal is where you can easily navigate throught files
+    around your computer. You can also install developer tools throught
+    the terminal like Xcode and git.
+
+2. What is the major difference between Git and Github?
+    Gtihub is a service. Git is a version control in which 
+    you can upload or download code from Github repositories.
+
+3. Why do we use Github?
+    We Use github to store code in repositories. People can also
+    view our code if we have our repositories set to public.
